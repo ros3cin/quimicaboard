@@ -1,0 +1,15 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Titulo:</b>
+  <%= @modelo.titulo %>
+</p>
+
+<p>
+  <b>Dono:</b>
+  <%= @modelo.dono %>
+</p>
+
+
+<%= link_to 'Edit', edit_modelo_path(@modelo) %> |
+<%= link_to 'Back', modelos_path %>

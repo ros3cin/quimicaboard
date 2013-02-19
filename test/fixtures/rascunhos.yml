@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  posicaoX: 1
+  posicaoY: 1
+
+two:
+  posicaoX: 1
+  posicaoY: 1
